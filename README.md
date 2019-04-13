@@ -1,0 +1,1 @@
+![alt text](https://github.com/MichaelKirsch/Jetbains_IDE_Settings/blob/master/example.PNG)
