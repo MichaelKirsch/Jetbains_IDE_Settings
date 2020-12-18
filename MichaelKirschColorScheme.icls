@@ -1,11 +1,11 @@
-<scheme name="MichaelKirschColorScheme" version="142" parent_scheme="Darcula">
+<scheme name="MichaelKirschColorScheme copy1" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-08-15T14:48:50</property>
-    <property name="ide">Python</property>
-    <property name="ideVersion">2020.2.0.0</property>
-    <property name="modified">2020-08-15T14:48:58</property>
-    <property name="originalScheme">MichaelKirschColorScheme</property>
+    <property name="created">2020-12-18T11:12:44</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2020.3.0.0</property>
+    <property name="modified">2020-12-18T11:13:03</property>
+    <property name="originalScheme">MichaelKirschColorScheme copy1</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
@@ -1205,13 +1205,13 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="e5c17c" />
+        <option name="FOREGROUND" value="e56363" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="98c379" />
+        <option name="FOREGROUND" value="66cf1f" />
       </value>
     </option>
     <option name="HTML_ENTITY_REFERENCE">
@@ -1221,12 +1221,12 @@
     </option>
     <option name="HTML_TAG">
       <value>
-        <option name="FOREGROUND" value="ace4ff" />
+        <option name="FOREGROUND" value="66cf1f" />
       </value>
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="f07178" />
+        <option name="FOREGROUND" value="ffe1" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
@@ -1381,14 +1381,35 @@
         <option name="FOREGROUND" value="61aeef" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="f83f5a" />
+      </value>
+    </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
+    <option name="JS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="9859ea" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="JS.MODULE_KEYWORD">
       <value>
         <option name="FOREGROUND" value="e06c75" />
+      </value>
+    </option>
+    <option name="JS.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="e18700" />
+      </value>
+    </option>
+    <option name="JS.STRING">
+      <value>
+        <option name="FOREGROUND" value="2aaa51" />
       </value>
     </option>
     <option name="JS.THIS_SUPER">
